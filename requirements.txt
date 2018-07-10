@@ -1,0 +1,5 @@
+django_redis==4.9.0
+Django==1.11.11
+redis==2.10.6
+pycrypto==2.6.1
+djangorestframework==3.8.2
